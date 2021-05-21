@@ -3224,3 +3224,20 @@ input, select, textarea {
 .main-email {
 	font-size: 20px;
 }
+
+.technology-logo {
+	max-width: 10%;
+	max-height: 10%;
+	padding: 10px;
+}
+
+.technology-logo-l {
+	max-width: 13%;
+	max-height: 13%;
+	padding: 10px;
+}
+
+#css {
+	max-width: 7.8%;
+	max-height: 7.8%;
+}
